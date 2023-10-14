@@ -7,6 +7,5 @@ import pandas as pd
 import matplotlib as plt
 import QuantLib as ql
 
-print("Test1")
-
+print("Test1"
 
